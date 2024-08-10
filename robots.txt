@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aaronrockmenezes.github.io/al-folio/sitemap.xml
+Sitemap: https://aaronrockmenezes.github.io/sitemap.xml
