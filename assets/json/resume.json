@@ -22,44 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Deep Forest Sciences",
-      "position": "Machine Learning Engineering Intern",
-      "url": "https://example.com",
-      "startDate": "Dec 2023",
-      "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    },
-    {
-      "name": "DeepChem",
-      "position": "Open Source Contributor",
-      "url": "https://example.com",
-      "startDate": "Dec 2023",
-      "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    },
-    {
-      "name": "APPCAIR - BITS Pilani, K.K. Birla Goa Campus",
-      "position": "Undergraduate ML Researcher",
-      "url": "https://example.com",
-      "startDate": "Jan 2023",
-      "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    },
-    {
-      "name": "CSIR - Central Electronics Engineering Research Institute (CEERI)",
-      "position": "Summer Research Intern",
-      "url": "https://example.com",
-      "startDate": "May 2023",
-      "endDate": "July 2023",
-      "summary": "While working at the Swiss Patent Office, I submitted the article 'On the Electrodynamics of Moving Bodies' which became the foundation of modern physics.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "education": [
     {
       "institution": "BITS Pilani, K.K. Birla Goa Campus",
@@ -87,6 +49,83 @@
                   "Genetics",
                   "Cell Biology",
                   "Immunology"]
+    }
+  ],
+  "work": [
+    {
+      "name": "Deep Forest Sciences",
+      "position": "Machine Learning Research Intern",
+      "url": "https://deepforestsci.com/",
+      "startDate": "Dec 2023",
+      "endDate": "Present",
+      "summary": "Working on the development of an automated Image Segmentation pipeline for segmentation, counting and classification of cells in microscopic images using Machine Learning. The project involves the use of Deep Learning models like U-Net, Mask R-CNN, etc.",
+      "highlights": ["Computer Vision, Image Segmentation, Microscopy"]
+    },
+    {
+      "name": "DeepChem",
+      "position": "Open Source Contributor",
+      "url": "https://deepchem.io/",
+      "startDate": "Dec 2023",
+      "endDate": "Present",
+      "summary": "I work on the development of DeepChem, an open-source Python library for deep learning in drug discovery, materials science, quantum chemistry, and biology. I have contributed to the development of the library and have also written a few tutorials on the same. I'm currently a Google Summer of Code (GSoC) mentor working on a project for Antibody Sequence Generation Using Protein Language Models.",
+      "highlights": ["Google Summer of Code(GSoC), Open Source, Tutorials"]
+    },
+    {
+      "name": "APPCAIR - BITS Pilani, K.K. Birla Goa Campus",
+      "position": "Undergraduate ML Researcher",
+      "url": "https://appcair.com/",
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "summary": "Studying the use of Large Language Models for generation of novel small molecules as potential drug candidates and their retrosynthesis. The project involves the use of GPT-4, Claude, etc. for the generation of novel molecules and their synthesis using a logical feedback loop with a chemist in the middle.",
+      "highlights": ["Large Language Models, Drug Discovery, Retrosynthesis, Molecular Generation"]
+    },
+    {
+      "name": "CSIR - Central Electronics Engineering Research Institute (CEERI)",
+      "position": "Summer Research Intern",
+      "url": "https://example.com",
+      "startDate": "May 2023",
+      "endDate": "July 2023",
+      "summary": "Implemented deep learning models to classify finger movements based on EEG signals. The project involved the use of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks for the classification of EEG signals. The use of Attention Mechanisms was also studied.",
+      "highlights": ["Time Series Data, EEG Signals, CNNs, LSTMs, Attention Mechanism"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mixture of Experts layer from scratch",
+      "summary": "Implemented a Mixture of Experts layer from scratch using PyTorch. The project involved the implementation and benchmarking a BiLSTM model with and without the MoE layer on the CoNLL-2003 dataset for Named Entity Recognition (NER).",
+      "highlights": ["Mixture of Experts", "Named Entity Recognition", "PyTorch"],
+      "startDate": "Apr 2024",
+      "endDate": "May 2024",
+      "url": "https://github.com/aaronrockmenezes/Mixture-of-Experts-Implementation"
+      },
+      {
+      "name": "Graph Attention And Graph Convolution Networks from scratch for Protein-Protein Interaction Prediction",
+      "summary": "Implemented Graph Attention Networks (GATs) and Graph Convolution Networks (GCNs) from scratch using PyTorch. The project involved the use of these models for Protein-Protein Interaction (PPI) prediction on the PPI dataset from PyG.",
+      "highlights": ["Graph Neural Networks", "Drug Discovery", "Molecular Properties"],
+      "startDate": "Apr 2024",
+      "endDate": "May 2024",
+      "url": "https://github.com/aaronrockmenezes/GAT-Model-PyTorch-Implementation"
+      },
+    {
+      "name": "Decoding finger movements from ECoG signals",
+      "summary": "Implemented a deep learning model to decode finger movements from Electrocorticography (ECoG) signals. The project involved the use of Attention based Long Short-Term Memory (LSTM) networks for the decoding of multi-channel ECoG signals. State-of-the-art performance was achieved on the BCIC IV 4 dataset, surpassing the previous best by about 30%.",
+      "highlights": ["Time Series Data", "ECoG Signals", "LSTMs", "Attention Mechanism"],
+      "startDate": "July 2023",
+      "endDate": "Sept 2023"
+    },
+    {
+      "name": "Time Masked Autoencoder for Fluid Dynamics Prediction",
+      "summary": "Implemented a Time Masked Autoencoder for the prediction of fluid dynamics in a 2D grid. The model was trained on simulations of the Shallow Water equation and achieved high accuracy in predicting the fluid dynamics up to 10 frames in the future. The model utilized random masking with up to 80% coverage.",
+      "highlights": ["Fluid Dynamics", "Time Masked Autoencoder", "Shallow Water Equation"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024"
+    },
+    {
+      "name": "Rock Detection and Classification System for a Mars Rover",
+      "summary": "Designed and implemented a Rock Detection and Classification System for a student built Mars Rover. The project involved the use of Computer Vision techniques like Object Detection and Transfer Learning for the detection and classification of rocks in images captured by the Rover. The system was able to detect and classify rocks with an accuracy of over 80%.",
+      "highlights": ["Image Segmentation", "Object Detection", "Transfer Learning"],
+      "startDate": "Aug 2022",
+      "endDate": "Feb 2023"
     }
   ],
   "awards": [
@@ -180,28 +219,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
