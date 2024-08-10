@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aaron Rock Menezes",
+    "label": "Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "aaronrockmenezes@gmail.com",
+    "phone": "+91-8451907244",
+    "url": "https://aaronrockmenezes.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Nahar Amrit Shakti, Andheri East",
+      "postalCode": "Mumbai 400072",
+      "city": "Mumbai",
+      "countryCode": "India",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
@@ -24,47 +24,77 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Deep Forest Sciences",
+      "position": "Machine Learning Engineering Intern",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "Dec 2023",
+      "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "name": "DeepChem",
+      "position": "Open Source Contributor",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "Dec 2023",
+      "endDate": "Present",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "APPCAIR - BITS Pilani, K.K. Birla Goa Campus",
+      "position": "Undergraduate ML Researcher",
+      "url": "https://example.com",
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "CSIR - Central Electronics Engineering Research Institute (CEERI)",
+      "position": "Summer Research Intern",
+      "url": "https://example.com",
+      "startDate": "May 2023",
+      "endDate": "July 2023",
+      "summary": "While working at the Swiss Patent Office, I submitted the article 'On the Electrodynamics of Moving Bodies' which became the foundation of modern physics.",
+      "highlights": ["Relativity"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "BITS Pilani, K.K. Birla Goa Campus",
+      "location": "Goa, India",
+      "area": "Minor in Data Science in Climate & Health",
+      "studyType": "Bachelor of Engineering in Electronics & Instrumentation",
+      "startDate": "2021",
+      "endDate": "2026",
+      "courses": ["Machine Learning",
+                  "Probability & Statistics",
+                  "Applied Statistical Methods",
+                  "Foundations of Data Science",
+                  "Object Oriented Programming"]
+    },
+    {
+      "institution": "BITS Pilani, K.K. Birla Goa Campus",
+      "location": "Goa, India",
+      "area": "",
+      "studyType": "Master of Science in Biological Sciences",
+      "startDate": "2021",
+      "endDate": "2026",
+      "courses": ["Molecular Biology",
+                  "Biochemistry",
+                  "Enzymology",
+                  "Genetics",
+                  "Cell Biology",
+                  "Immunology"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "INSPIRE Scholarship",
+      "date": "2021",
+      "awarder": "Department of Science and Technology, Government of India",
+      "summary": "Among top 1 percentile of science students in class 12 board examinations and performed consistently well in school."
     }
   ],
   "certificates": [
@@ -111,29 +141,6 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
       "name": "Physics",
@@ -151,13 +158,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Hindi",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
