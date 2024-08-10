@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Aaron Rock Menezes",
-    "label": "Machine Learning Engineer",
+    "label": "Machine Learning Researcher",
     "image": "",
     "email": "aaronrockmenezes@gmail.com",
     "phone": "+91-8451907244",
     "url": "https://aaronrockmenezes.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "address": "Nahar Amrit Shakti, Andheri East",
       "postalCode": "Mumbai 400072",
       "city": "Mumbai",
-      "countryCode": "India",
-      "region": "Maharashtra"
+      "region": "Maharashtra",
+      "countryCode": "India"
     },
     "profiles": [
       {
@@ -182,16 +182,46 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Biology",
+      "level": "Beginner",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "PCR",
+        "SDS PAGE",
+        "Western Blots",
+        "Cell Culture"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Deep Learning",
+        "Computer Vision",
+        "Time Series Analysis",
+        "Large Language Models"
+      ]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "MS Excel",
+        "Exploratory Data Analysis",
+        "Data Visualization",
+        "Data Cleaning & Preprocessing"
       ]
     }
   ],

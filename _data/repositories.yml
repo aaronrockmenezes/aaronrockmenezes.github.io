@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aaronrockmenezes
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - aaronrockmenezes/Mixture-of-Experts-Implementation
+  - aaronrockmenezes/IVF-EDAS-MCDM
+  - aaronrockmenezes/GAT-Model-PyTorch-Implementation
