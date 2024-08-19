@@ -189,7 +189,8 @@
         "PCR",
         "SDS PAGE",
         "Western Blots",
-        "Cell Culture"
+        "Cell Culture",
+        "AutoDock Vina"
       ]
     },
     {
@@ -208,8 +209,7 @@
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "Java"
+        "Python"
       ]
     },
     {
