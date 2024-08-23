@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X (Twitter)",
+        "username": "AaronRokMenezes",
+        "url": "https://x.com/AaronRokMenezes"
       }
     ]
   },
@@ -136,50 +136,6 @@
       "summary": "Among top 1 percentile of science students in class 12 board examinations and performed consistently well in school."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "skills": [
     {
       "name": "Biology",
@@ -189,7 +145,7 @@
         "PCR",
         "SDS PAGE",
         "Western Blots",
-        "Cell Culture",
+        "Cell Cultures",
         "AutoDock Vina"
       ]
     },
@@ -209,7 +165,8 @@
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python"
+        "Python",
+        "Java"
       ]
     },
     {
@@ -239,15 +196,22 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Deep Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Brain Computer Interfaces",
+        "Machine Translation",
+        "Time Series Analysis"
+      ]
+    },
+    {
+      "name": "Biology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Structure and Functioning of various Caspases",
+        "RNA-Protein Interactions",
+        "Biochemistry",
+        "Enzymology"
       ]
     }
   ]
